@@ -1,0 +1,1 @@
+docker run -v ~/workspace/react/password-str:/react/ js npm run test --colors

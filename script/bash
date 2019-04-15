@@ -1,0 +1,1 @@
+docker run -it -v ~/workspace/react/password-str:/react/ js sh
